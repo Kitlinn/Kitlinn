@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Web Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on learning Web Development
-- 📫 How to reach me kittylinn@hotmail.com
+- 📫 
 
 <!---
 Kitlinn/Kitlinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
